@@ -1,0 +1,132 @@
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.exe
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.deps.json
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.pdb
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.csproj.CopyComplete
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.dll
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.pdb
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.Helper.res.resources
+C:\Users\Admin\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.csproj.GenerateResource.cache
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.exe
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.deps.json
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.runtimeconfig.json
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.runtimeconfig.dev.json
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\QLNhanVienEF.pdb
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.csproj.AssemblyReference.cache
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.Helper.res.resources
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.csproj.GenerateResource.cache
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.AssemblyInfoInputs.cache
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.AssemblyInfo.cs
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.csproj.CoreCompileInputs.cache
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.csproj.CopyComplete
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.dll
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.pdb
+D:\HaiAnh\Bài tập\Code\QLNhanVien_EF02\ConsoleApp4\obj\Debug\netcoreapp3.1\QLNhanVienEF.genruntimeconfig.cache

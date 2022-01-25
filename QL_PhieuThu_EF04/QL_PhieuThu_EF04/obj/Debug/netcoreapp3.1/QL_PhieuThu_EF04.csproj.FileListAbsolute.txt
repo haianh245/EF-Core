@@ -1,0 +1,198 @@
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.exe
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.deps.json
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.runtimeconfig.json
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.runtimeconfig.dev.json
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.pdb
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csprojAssemblyReference.cache
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.AssemblyInfoInputs.cache
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.AssemblyInfo.cs
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csproj.CoreCompileInputs.cache
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csproj.CopyComplete
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.dll
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.pdb
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.genruntimeconfig.cache
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.Helper.res.resources
+D:\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csproj.GenerateResource.cache
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.exe
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.deps.json
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.runtimeconfig.json
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.runtimeconfig.dev.json
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.pdb
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csproj.AssemblyReference.cache
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.Helper.res.resources
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csproj.GenerateResource.cache
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.AssemblyInfoInputs.cache
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.AssemblyInfo.cs
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csproj.CoreCompileInputs.cache
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csproj.CopyComplete
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.dll
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.pdb
+D:\HaiAnh\Bài tập\Code\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.genruntimeconfig.cache
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.exe
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.deps.json
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.runtimeconfig.json
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.runtimeconfig.dev.json
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\QL_PhieuThu_EF04.pdb
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csproj.AssemblyReference.cache
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.Helper.res.resources
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csproj.GenerateResource.cache
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.AssemblyInfoInputs.cache
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.AssemblyInfo.cs
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csproj.CoreCompileInputs.cache
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.csproj.CopyComplete
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.dll
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.pdb
+D:\HaiAnh\BaiTap\Code\EF\QL_PhieuThu_EF04\QL_PhieuThu_EF04\obj\Debug\netcoreapp3.1\QL_PhieuThu_EF04.genruntimeconfig.cache
